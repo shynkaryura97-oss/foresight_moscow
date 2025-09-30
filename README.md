@@ -1,4 +1,4 @@
-# foresight_moscow
+# Moscow_Foresight
 Privacy policy
 
 
