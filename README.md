@@ -2,9 +2,9 @@
 Privacy policy
 
 
-<img src="https://github.com/user-attachments/assets/d2b92b90-09c9-48d5-99e5-26ac69caed49" width="300" height="600" alt="Описание изображения">
-<img src="https://github.com/user-attachments/assets/7715b298-fd8c-4517-9d47-a4a156631009" width="300" height="600" alt="Описание изображения">
-<img src="https://github.com/user-attachments/assets/76fd146c-e207-4252-9fd9-34cdeacf9c10" width="300" height="600" alt="Описание изображения">
+<img src="https://github.com/user-attachments/assets/d2b92b90-09c9-48d5-99e5-26ac69caed49" width="200" height="400" alt="Описание изображения">
+<img src="https://github.com/user-attachments/assets/7715b298-fd8c-4517-9d47-a4a156631009" width="200" height="400" alt="Описание изображения">
+<img src="https://github.com/user-attachments/assets/76fd146c-e207-4252-9fd9-34cdeacf9c10" width="200" height="400" alt="Описание изображения">
 
 
 
