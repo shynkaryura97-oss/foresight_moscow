@@ -2,9 +2,11 @@
 Privacy policy
 
 
-<img src="https://github.com/user-attachments/assets/f9bdd9ee-a57e-4893-a759-14d3a21b471e" width="300" height="600" alt="Описание изображения">
-<img src="https://github.com/user-attachments/assets/a0f50323-f9d9-48ee-86a8-474c9610e543" width="300" height="600" alt="Описание изображения">
-<img src="https://github.com/user-attachments/assets/270c597d-1d5c-44b4-a7dc-20c886f020e5" width="300" height="600" alt="Описание изображения">
+<img src="https://github.com/user-attachments/assets/d2b92b90-09c9-48d5-99e5-26ac69caed49" width="300" height="600" alt="Описание изображения">
+<img src="https://github.com/user-attachments/assets/7715b298-fd8c-4517-9d47-a4a156631009" width="300" height="600" alt="Описание изображения">
+<img src="https://github.com/user-attachments/assets/76fd146c-e207-4252-9fd9-34cdeacf9c10" width="300" height="600" alt="Описание изображения">
+
+
 
 Artem Ananyev
 
